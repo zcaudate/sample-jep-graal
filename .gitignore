@@ -13,3 +13,4 @@ pom.xml.asc
 /native/reflect-config.json
 /native/jni-config.json
 /log
+.java-version
